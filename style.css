@@ -1,0 +1,212 @@
+.Fl {
+     display: inline;  
+     margin-right: 0px;
+    } 
+.Fl.coming-soon { 
+    display: none;
+}
+
+.firstdiv{
+    max-width: 1230px;
+    min-width: 1230px;
+    background-color: blue;
+    padding:0px 170px 0px 170px;
+}
+.seconddiv{
+    display: inline-block;
+    margin-right: 20px;
+}
+.thirddiv{
+    margin-right: 30px;
+     display: inline-block;
+}
+.fourthdiv{
+     display: inline-block;
+} 
+button{
+    cursor: pointer;
+}
+.headline{
+    background-color:white;
+}
+.headline1{
+    margin-left: 50px;
+    margin-right: 50px;
+    width:1350px;
+    background-color: blue;
+}
+.introheading{
+    color: blue;
+}
+.ductionheading{
+    color: green;
+}
+.introductionheading{
+    text-align: center;
+}
+.SUL {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    border: 1px solid whitesmoke;
+    background-color: whitesmoke;
+  }
+  
+ .Sl {
+    float: right;
+  }
+  
+  .Sl a {
+    display: block;
+    color: #666;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+  }
+  
+  
+  .Sl a:hover:not(.active) {
+    background-color: blue;
+    border-radius: 30px;
+    
+  }
+  
+  .Sl a.active {
+    color: white;
+    background-color:blue;
+    border-radius: 30px;
+  }
+  .SImage{
+      padding-right: 500px;
+  }
+  .intro{
+      text-align: justify;
+      padding-left: 370px;
+      padding-right: 370px;
+  }
+body{
+    background-color: whitesmoke;
+    font-family:Arial, Helvetica, sans-serif;
+}
+.introdiv{
+    background-color: blue;
+    padding:50px 50px 50px 50px;
+    color: white;
+
+}
+.pdiv{
+     
+     display: inline-block; 
+     margin: 50px 50px 50px 50px;    
+}
+.heading1{
+    color:rgb(146, 230, 22);
+}
+.img{
+ text-decoration:underline green;
+}
+.article {
+    background-color:white; 
+    margin: 15px 20px 15px 0px;
+     padding: 20px 100px 5px 100px;
+     height: 150px ;
+     display: inline-block;
+     width: 200px;
+     border: white;
+}
+
+.div2{
+color: blue;
+background-color:white;
+width: 1430px;
+height: 300px;
+display: inline-block;
+}
+.partical  {
+    border:solid whitesmoke;
+    background-color: whitesmoke;
+    width:250px;
+    height:80px;
+    margin:5px 5px 5px 5px;
+    display:inline-block;
+}
+.img1{
+    display:inline;
+}
+.para1{
+     background-color: white;
+}
+.mui{
+    border:solid white;
+    background-color: white;
+   /* margin:2px 2px 2px 2px;*/
+    display:inline-block;
+   width: 690px;
+    height: 300px;
+    color:blue;
+    padding-right:20px ;
+    padding-left:20px ;
+}
+.para3{
+    color:rgba(0, 0, 0, 0.596);
+    
+}
+.images{
+    display: inline-block;
+    margin: 5px;
+    
+    padding-top: 10px;
+}
+#I1{
+padding-left: 300px;
+}
+
+.divi{
+    border:solid white;
+    height:200px;
+}
+.maindiv{
+    
+    background-color: white;
+}
+.Blue{
+    color:rgba(0, 0, 255, 0.452);
+}
+.liimg { 
+    color:whitesmoke;
+    list-style-image: url("images/call.png");
+} 
+.limail { 
+    color:whitesmoke;
+    list-style-image: url("images/Mail.png");
+} 
+.liworld { 
+    color:whitesmoke;
+    list-style-image: url("images/world.jpg");
+} 
+.lastdiv1{
+    background-color: black;
+    padding:0px 100px 0px 100px;
+}
+.lastdiv2{
+    
+    display:inline-block;
+    width: 300px;
+    margin:5px 10px 5px 10px;  
+     
+}
+.CU{
+    color :white;
+}
+.para2{
+    color:whitesmoke
+}
+
+
+
+
+
+
+
+
